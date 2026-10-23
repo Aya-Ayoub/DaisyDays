@@ -50,7 +50,7 @@ class _HomeScreenState extends State<HomeScreen> {
             const SizedBox(height: 22),
             _buildProgressCard(progress),
             const SizedBox(height: 28),
-            _buildSectionHeading('Your little rituals', 'Small steps count'),
+            _buildSectionHeading('Your little goals', 'Small steps count'),
             const SizedBox(height: 14),
             _buildTaskList(),
             const SizedBox(height: 24),
